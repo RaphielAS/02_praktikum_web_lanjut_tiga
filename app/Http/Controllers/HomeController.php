@@ -33,8 +33,4 @@ class HomeController extends Controller
         echo '<a href ="http://localhost:8000/program/magang">Magang</a><br>';
         echo '<a href ="http://localhost:8000/program/kunjungan-industri">Kunjungan Industri</a><br>';
     }
-    // halaman contact us
-    public function contactus(){
-        echo '';
-    }
 }
